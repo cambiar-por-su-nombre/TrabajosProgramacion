@@ -1,2 +1,2 @@
 "En este documento se presenta ..." 
-"... mejores resultados que los reportados." 
+"...lo cual permitó obtener mejores resultados que los reportados." 
