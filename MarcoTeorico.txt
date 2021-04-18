@@ -1,3 +1,4 @@
-1. Historia de la inteligencia artificial
+1. Redes neuronales artificiales (ANN)
 
 2.
+ 
